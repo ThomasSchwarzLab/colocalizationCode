@@ -1,9 +1,9 @@
 # colocalizationCode
 Measure Channel Intensities After Organelle detection
-Download latest version:
-  Run Installer:
+# Step 1: Download latest version of FIJI
+# Step2: Run Installer:
     Start Fiji> go to the following tab:
       Macros> Run
         Select installer_.ijm
 
-Restart Fiji to finish installation
+# Step 3: Restart Fiji to finish installation
