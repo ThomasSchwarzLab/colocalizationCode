@@ -10,4 +10,4 @@ Measure Channel Intensities After Organelle detection
 # Step 4: Restart Fiji to finish installation
 # Step 5: Run macro:
     Start Fiji> go to the following tab:
-      Plugins>Macros> JanaeColoc_V2
+      Plugins>Macros> JanaeColoc_V4
